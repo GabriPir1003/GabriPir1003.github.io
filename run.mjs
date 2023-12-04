@@ -26,7 +26,7 @@ async function run() {
     await wait_mem();
     clear_log();
 
-    import('./rop.mjs');
+    //import('./rop.mjs');
 }
 
 run();
